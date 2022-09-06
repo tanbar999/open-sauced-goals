@@ -1,62 +1,62 @@
 [
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 41736,
+    "stargazers_count": 41794,
     "open_issues_count": 10,
-    "forks_count": 6117
+    "forks_count": 6132
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 194190,
-    "open_issues_count": 1095,
-    "forks_count": 40102
+    "stargazers_count": 194348,
+    "open_issues_count": 1100,
+    "forks_count": 40141
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 7845,
-    "open_issues_count": 2866,
-    "forks_count": 1677
+    "stargazers_count": 7875,
+    "open_issues_count": 2869,
+    "forks_count": 1686
   },
   {
     "full_name": "springframeworkguru/spring5webapp",
-    "stargazers_count": 571,
+    "stargazers_count": 572,
     "open_issues_count": 95,
-    "forks_count": 14419
+    "forks_count": 14452
   },
   {
     "full_name": "kubernetes-client/java",
-    "stargazers_count": 2537,
-    "open_issues_count": 37,
-    "forks_count": 1124
+    "stargazers_count": 2544,
+    "open_issues_count": 36,
+    "forks_count": 1125
   },
   {
     "full_name": "quarkusio/quarkus",
-    "stargazers_count": 10622,
-    "open_issues_count": 2061,
-    "forks_count": 1963
+    "stargazers_count": 10640,
+    "open_issues_count": 2055,
+    "forks_count": 1966
   },
   {
     "full_name": "Azure/azure-sdk-for-java",
-    "stargazers_count": 1577,
-    "open_issues_count": 1345,
-    "forks_count": 1537
+    "stargazers_count": 1578,
+    "open_issues_count": 1333,
+    "forks_count": 1539
   },
   {
     "full_name": "in28minutes/spring-master-class",
-    "stargazers_count": 907,
+    "stargazers_count": 910,
     "open_issues_count": 33,
-    "forks_count": 1324
+    "forks_count": 1323
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 1002,
+    "stargazers_count": 1006,
     "open_issues_count": 5,
-    "forks_count": 3401
+    "forks_count": 3419
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 231195,
+    "stargazers_count": 231445,
     "open_issues_count": 46,
-    "forks_count": 62049
+    "forks_count": 62121
   }
 ]
