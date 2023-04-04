@@ -1,74 +1,74 @@
 [
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 96994,
-    "open_issues_count": 2423,
-    "forks_count": 35642
+    "stargazers_count": 97129,
+    "open_issues_count": 2443,
+    "forks_count": 35683
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6215,
-    "open_issues_count": 25,
-    "forks_count": 316
+    "stargazers_count": 6216,
+    "open_issues_count": 24,
+    "forks_count": 317
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 54093,
+    "stargazers_count": 54209,
     "open_issues_count": 14,
-    "forks_count": 7697
+    "forks_count": 7711
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 204925,
-    "open_issues_count": 1221,
-    "forks_count": 42639
+    "stargazers_count": 205144,
+    "open_issues_count": 1223,
+    "forks_count": 42708
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 10130,
-    "open_issues_count": 4471,
-    "forks_count": 2549
+    "stargazers_count": 10164,
+    "open_issues_count": 4467,
+    "forks_count": 2559
   },
   {
     "full_name": "springframeworkguru/spring5webapp",
-    "stargazers_count": 631,
+    "stargazers_count": 632,
     "open_issues_count": 113,
-    "forks_count": 16331
+    "forks_count": 16354
   },
   {
     "full_name": "kubernetes-client/java",
-    "stargazers_count": 2818,
-    "open_issues_count": 28,
-    "forks_count": 1407
+    "stargazers_count": 2822,
+    "open_issues_count": 27,
+    "forks_count": 1412
   },
   {
     "full_name": "quarkusio/quarkus",
-    "stargazers_count": 11562,
-    "open_issues_count": 2119,
-    "forks_count": 2165
+    "stargazers_count": 11574,
+    "open_issues_count": 2141,
+    "forks_count": 2169
   },
   {
     "full_name": "Azure/azure-sdk-for-java",
-    "stargazers_count": 1815,
-    "open_issues_count": 1450,
-    "forks_count": 1687
+    "stargazers_count": 1816,
+    "open_issues_count": 1451,
+    "forks_count": 1691
   },
   {
     "full_name": "in28minutes/spring-master-class",
     "stargazers_count": 1035,
     "open_issues_count": 34,
-    "forks_count": 1408
+    "forks_count": 1409
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 1354,
+    "stargazers_count": 1358,
     "open_issues_count": 8,
-    "forks_count": 4261
+    "forks_count": 4272
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 252728,
+    "stargazers_count": 253267,
     "open_issues_count": 57,
-    "forks_count": 66813
+    "forks_count": 66877
   }
 ]
