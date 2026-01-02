@@ -1,9 +1,9 @@
 [
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 119545,
-    "open_issues_count": 2550,
-    "forks_count": 42059
+    "stargazers_count": 119593,
+    "open_issues_count": 2545,
+    "forks_count": 42081
   },
   {
     "full_name": "datreeio/datree",
@@ -13,21 +13,21 @@
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 70478,
+    "stargazers_count": 70491,
     "open_issues_count": 2,
-    "forks_count": 9432
+    "forks_count": 9434
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 241918,
+    "stargazers_count": 241972,
     "open_issues_count": 1100,
-    "forks_count": 50228
+    "forks_count": 50248
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 20355,
-    "open_issues_count": 1987,
-    "forks_count": 4974
+    "stargazers_count": 20372,
+    "open_issues_count": 2009,
+    "forks_count": 4975
   },
   {
     "full_name": "springframeworkguru/spring5webapp",
@@ -39,19 +39,19 @@
     "full_name": "kubernetes-client/java",
     "stargazers_count": 3915,
     "open_issues_count": 34,
-    "forks_count": 2070
+    "forks_count": 2069
   },
   {
     "full_name": "quarkusio/quarkus",
-    "stargazers_count": 15367,
-    "open_issues_count": 2708,
-    "forks_count": 3040
+    "stargazers_count": 15368,
+    "open_issues_count": 2705,
+    "forks_count": 3042
   },
   {
     "full_name": "Azure/azure-sdk-for-java",
-    "stargazers_count": 2545,
-    "open_issues_count": 577,
-    "forks_count": 2146
+    "stargazers_count": 2547,
+    "open_issues_count": 576,
+    "forks_count": 2147
   },
   {
     "full_name": "in28minutes/spring-master-class",
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 2775,
+    "stargazers_count": 2781,
     "open_issues_count": 23,
-    "forks_count": 6659
+    "forks_count": 6661
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 335403,
+    "stargazers_count": 335486,
     "open_issues_count": 91,
-    "forks_count": 81543
+    "forks_count": 81537
   }
 ]
