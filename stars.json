@@ -1,9 +1,9 @@
 [
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 123459,
-    "open_issues_count": 2680,
-    "forks_count": 43490
+    "stargazers_count": 123574,
+    "open_issues_count": 2698,
+    "forks_count": 43545
   },
   {
     "full_name": "datreeio/datree",
@@ -13,45 +13,45 @@
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 82316,
+    "stargazers_count": 82365,
     "open_issues_count": 2,
-    "forks_count": 11355
+    "forks_count": 11366
   },
   {
     "full_name": "react/react",
-    "stargazers_count": 246278,
-    "open_issues_count": 1240,
-    "forks_count": 51228
+    "stargazers_count": 246355,
+    "open_issues_count": 1204,
+    "forks_count": 51167
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 21585,
-    "open_issues_count": 2456,
-    "forks_count": 5249
+    "stargazers_count": 21600,
+    "open_issues_count": 2468,
+    "forks_count": 5250
   },
   {
     "full_name": "springframeworkguru/spring5webapp",
     "stargazers_count": 754,
     "open_issues_count": 100,
-    "forks_count": 18741
+    "forks_count": 18739
   },
   {
     "full_name": "kubernetes-client/java",
-    "stargazers_count": 3987,
+    "stargazers_count": 3988,
     "open_issues_count": 14,
     "forks_count": 2105
   },
   {
     "full_name": "quarkusio/quarkus",
-    "stargazers_count": 15754,
-    "open_issues_count": 2814,
-    "forks_count": 3231
+    "stargazers_count": 15766,
+    "open_issues_count": 2830,
+    "forks_count": 3234
   },
   {
     "full_name": "Azure/azure-sdk-for-java",
-    "stargazers_count": 2562,
-    "open_issues_count": 522,
-    "forks_count": 2180
+    "stargazers_count": 2564,
+    "open_issues_count": 526,
+    "forks_count": 2181
   },
   {
     "full_name": "in28minutes/spring-master-class",
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 2922,
+    "stargazers_count": 2926,
     "open_issues_count": 23,
-    "forks_count": 6776
+    "forks_count": 6778
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 355325,
-    "open_issues_count": 120,
-    "forks_count": 84133
+    "stargazers_count": 355684,
+    "open_issues_count": 122,
+    "forks_count": 84209
   }
 ]
