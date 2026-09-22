@@ -1,9 +1,9 @@
 [
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 127801,
-    "open_issues_count": 3055,
-    "forks_count": 44468
+    "stargazers_count": 127890,
+    "open_issues_count": 3079,
+    "forks_count": 44792
   },
   {
     "full_name": "datreeio/datree",
@@ -13,21 +13,21 @@
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 83527,
+    "stargazers_count": 83547,
     "open_issues_count": 4,
-    "forks_count": 11492
+    "forks_count": 11489
   },
   {
     "full_name": "react/react",
-    "stargazers_count": 250551,
-    "open_issues_count": 1379,
-    "forks_count": 51373
+    "stargazers_count": 250644,
+    "open_issues_count": 1377,
+    "forks_count": 51385
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 22083,
-    "open_issues_count": 2440,
-    "forks_count": 5351
+    "stargazers_count": 22114,
+    "open_issues_count": 2465,
+    "forks_count": 5357
   },
   {
     "full_name": "springframeworkguru/spring5webapp",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "kubernetes-client/java",
-    "stargazers_count": 4001,
-    "open_issues_count": 15,
-    "forks_count": 2109
+    "stargazers_count": 4002,
+    "open_issues_count": 19,
+    "forks_count": 2111
   },
   {
     "full_name": "quarkusio/quarkus",
-    "stargazers_count": 15891,
-    "open_issues_count": 2763,
-    "forks_count": 3300
+    "stargazers_count": 15894,
+    "open_issues_count": 2756,
+    "forks_count": 3306
   },
   {
     "full_name": "Azure/azure-sdk-for-java",
     "stargazers_count": 2562,
-    "open_issues_count": 513,
-    "forks_count": 2193
+    "open_issues_count": 505,
+    "forks_count": 2195
   },
   {
     "full_name": "in28minutes/spring-master-class",
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 2973,
+    "stargazers_count": 2977,
     "open_issues_count": 23,
-    "forks_count": 6816
+    "forks_count": 6815
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 361124,
-    "open_issues_count": 125,
-    "forks_count": 84840
+    "stargazers_count": 361670,
+    "open_issues_count": 126,
+    "forks_count": 84888
   }
 ]
